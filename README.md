@@ -1,7 +1,6 @@
 ### Hey there 👋
 
-<!--
-**WilyMayo/WilyMayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## Willy Mayo 
 Game Developer and 3D Artist
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 Check out some of my other work
 [Behance](https://www.behance.net/wilymayo)
 
--->
+
 
 
 
