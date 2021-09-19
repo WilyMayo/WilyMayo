@@ -15,7 +15,7 @@ Game Developer and 3D Artist
 * Blender 
 
 
-Here are some ideas to get you started:
+## Summary 
 
 - 🔭 I’m currently working on a indie game called CreepyNight
 - 🌱 I’m currently learning 3D modeling / animation and storyboard 
